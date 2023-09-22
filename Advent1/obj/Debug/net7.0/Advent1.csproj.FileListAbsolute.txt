@@ -1,0 +1,14 @@
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.AssemblyInfoInputs.cache
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.AssemblyInfo.cs
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.csproj.CoreCompileInputs.cache
+D:\Bingus2\Advent1\bin\Debug\net7.0\Advent1.exe
+D:\Bingus2\Advent1\bin\Debug\net7.0\Advent1.deps.json
+D:\Bingus2\Advent1\bin\Debug\net7.0\Advent1.runtimeconfig.json
+D:\Bingus2\Advent1\bin\Debug\net7.0\Advent1.dll
+D:\Bingus2\Advent1\bin\Debug\net7.0\Advent1.pdb
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.dll
+D:\Bingus2\Advent1\obj\Debug\net7.0\refint\Advent1.dll
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.pdb
+D:\Bingus2\Advent1\obj\Debug\net7.0\Advent1.genruntimeconfig.cache
+D:\Bingus2\Advent1\obj\Debug\net7.0\ref\Advent1.dll
