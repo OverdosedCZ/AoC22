@@ -1,3 +1,3 @@
 # AoC22
 
-Solutions for Advent of Code 22 in C#
+Solutions for Advent of Code 2022 in C#
